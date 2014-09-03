@@ -1,0 +1,13 @@
+{
+  "name": "db_photobox",
+  "version": "0.0.0",
+  "description": "A malleable photobook that can be configured to read data from dropbox that conforms to a naming scheme",
+  "dependencies": {
+    "mongodb": "^1.4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/clebens/db_photobox"
+  },
+  "homepage": "https://github.com/clebens/db_photobox"
+}
